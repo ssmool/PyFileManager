@@ -1,6 +1,6 @@
 ## PyFileManager - [ostream-manager]
 
-![Python OSTREAMANEGER Logo](./assets/ostream.gif)
+![Python OSTREAMANEGER Logo](./assets/ostream.png)
 
 
 **PyFileManager** is a lightweight Python 3 project that provides a unified interface for managing file operations through a simple, command-line-style programming model. It integrates functionality such as binary file handling, base64 encoding/decoding, cryptography (via Fernet), and lightweight socket-based file serving—all wrapped in a minimal, modular Python package.
