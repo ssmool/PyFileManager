@@ -21,7 +21,7 @@
 ## 📦 Installation
 
 ```bash
-#pip install stream_manager #comming soon
+pip install ostream-manager==2.0
 ````
 
 ---
